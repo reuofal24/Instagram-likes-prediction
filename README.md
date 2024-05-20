@@ -8,4 +8,4 @@
 
 ### Finally, evaluated the model's performance using metrics like Mean Squared Error (MSE), R-squared (R2) score, and Mean Absolute Error (MAE). These metrics provided insights into how well the model predicted the number of likes. 
 
-### The project included a code file that documented all steps and evaluations, making it easy for others to understand and replicate the analysis.
+### The project included a code file that documented all steps and evaluations, making it easy for others to understand and replicate the analysis also the dataset.
